@@ -75,6 +75,13 @@ ul {
     color: white;
 }
 
+.list {
+    padding: 1rem;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
 
 .vidlib {
     display: flex;
