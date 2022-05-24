@@ -61,6 +61,20 @@ li {
 /*library*/
 /* use flex box */ /*resize videos*/
 
+div.shelf1 {
+    padding-top: 10rem;
+    background-image: url('../img/book1.jpg');
+    background-color: white;
+    background-repeat: repeat-x;
+}
+
+div.shelf2 {
+    padding-top: 10rem;
+    background-image: url('../img/book2.jpg');
+    background-color: white;
+    background-repeat: repeat-x;
+}
+
 ul {
     background-color: #ff50ba;
     color: white;
