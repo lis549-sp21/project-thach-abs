@@ -95,7 +95,11 @@ img {
 /* media query screen sizes */
 
 @media (min-width: 598px) {
+nav.scroll {
 
+overflow: auto;
+white-space: nowrap;
+}
 }
 
 @media (min-width: 768px) {
