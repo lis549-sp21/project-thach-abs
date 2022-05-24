@@ -97,10 +97,18 @@ img {
 @media (min-width: 598px) {
 nav.scroll {
 
-overflow: auto;
+overflow-x: auto;
 white-space: nowrap;
 }
+
+nav.scroll a {
+    display: inline-block; 
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
 }
+}
+
 
 @media (min-width: 768px) {
  
