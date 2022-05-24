@@ -43,22 +43,14 @@ li a:hover { /*applies to article library too*/
     border-bottom: .1rem solid white;
 }
 
-header {
-    background-color: #ff50ba;
-    color: white;
-    background-size: cover;
-    text-align: center;
-    width:100%;
-}
-
-
 h1, h2, h3, h4 {
     font-family: 'Work Sans', sans-serif;
     font-weight: 600;
     color:white;
     background-color: #ff50ba;
     text-align: center;
-    padding: 1rem
+    padding: 1rem;
+    border-radius: 5px 5px 5px 5px;
 }
 p {
     font-family: 'Work Sans', sans-serif;
