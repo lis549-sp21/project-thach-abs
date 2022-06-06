@@ -28,13 +28,13 @@ nav li {
     
 }
 
-li a {
+a {
     text-decoration-line: none;
     color: white;
 
 }
 
-li a:hover { /*applies to article library too*/
+a:hover { /*applies to article library too*/
     color: white;
     border-bottom: .1rem solid white;
 }
