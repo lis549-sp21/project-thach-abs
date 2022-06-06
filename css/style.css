@@ -132,3 +132,37 @@ nav.scroll a {
 @media (min-width: 1200px) {
     
 }
+
+
+/* requirements: 
+
+You'll be completing this project iteratively, submitting multiple drafts along the way:
+
+A first draft of the HTML "content" (if not the appearance) of your site
+A second draft that includes styling for site content (adding CSS)
+A third draft that finalizes the style of your site (perfecting the CSS), while also making it responsive
+A final version that includes a bit of interactivity via JavaScript
+Objectives
+By completing this project you will practice and master the following skills:
+
+Creating new web pages from scratch
+Applying iterative development and modifying existing web projects
+Writing semantically rich and accessible HTML
+Using CSS to gives pages complex formatting and layouts
+Harnessing media queries and CSS frameworks to produce responsive web pages
+Exploring advanced CSS and formatting features
+Using JavaScript to create interactive, engaging websites
+
+JS 
+Your page could include boxes that can be expanded/collapsed to show/hide details. It could even use something like a modal (Links to an external site.) or lightbox (Links to an external site.) effects to let people see additional details.
+Your page could include a "search" or "filter" form that lets users see only a select portion of the content.
+Your page could change "themes" or appearance in response to button clicks.
+Your page could dynamically generate content (e.g., "make a card for each item in this list"), or even load new content (e.g., getting the latest news from Twitter).
+
+
+goals:
+create cards and use flex box and mobile first design
+js game element
+
+
+*/
