@@ -1,15 +1,13 @@
 /* style across all pages*/
 
-/*general stuff and nav bar*/
+/*general stuff */
 
 
 body {
     background-color: #FEEAED;
-    padding-top: 50px;
-    margin: 10px;
 }
 
-/* nav edited from assignment 4*/
+
 
 nav {
     display: none;
@@ -23,7 +21,6 @@ li a {
 
 li a:hover { /*applies to article library too*/
     color: white;
-    border-bottom: .1rem solid white;
 }
 
 h1, h2, h3, h4 {
@@ -94,37 +91,18 @@ ul {
 
 }
 
-.card {
-    border: 5px solid #ff50ba;
-    width: 25rem;
-    padding: .5rem;
-    margin: .5rem;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
+
+.btn btn-primary {
+    border-radius: 5px !important;
+    background-color:white !important;
+    color:#ff50ba !important;  
 }
 
-.ss {
-    width: 25rem;
-    height: 30rem;
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit:contain;
 }
-
-.button {
-    border: 2px solid #ff50ba;
-    border-radius: 5px;
-    background-color:white;
-    color:#ff50ba;
-    margin: .25rem 8.5rem;
-    padding: 1rem;
-    
-   
-}
-
-.button a{
-    text-decoration: none;
-    color:#ff50ba;
-}
-
 /*Doing Research*/
 
 img {
@@ -151,6 +129,8 @@ img {
         margin: 0 1rem; /*trbl*/
         padding: 0;
 }
+
+/*js*/
 
 
 @media (min-width: 768px) {
